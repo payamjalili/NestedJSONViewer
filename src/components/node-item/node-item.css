@@ -1,0 +1,39 @@
+.node-item .node-name {
+  cursor: pointer;
+  color: #9d9d9d;
+  font-size: 13px;
+  padding: 5px 10px;
+  display: flex;
+  -webkit-transition: background-color 400ms ease-out, color 400ms ease-out;
+  -moz-transition: background-color 400ms ease-out, color 400ms ease-out;
+  -o-transition: background-color 400ms ease-out, color 400ms ease-out;
+  transition: background-color 400ms ease-out, color 400ms ease-out;
+}
+.node-item .node-name:hover {
+  background-color: #424954;
+  color: #fff;
+}
+
+.node-item .node-name .node-icon {
+  margin-right: 10px;
+}
+.node-item .node-name .node-icon .icon-folder,
+.node-item .node-name .node-icon .icon-folder-open {
+  color: #ff9800;
+}
+.node-item .node-name .node-icon .icon-file {
+  color: #009688;
+}
+
+.node-item .node-children {
+  list-style: none;
+  display: none;
+}
+.node-item .node-children {
+  list-style: none;
+  padding-left: 20px;
+  display: none;
+}
+.node-item.show-children > .node-children {
+  display: block;
+}

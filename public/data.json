@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Root 1",
+    "children": [
+      { "name": "Root 1 - Child 1" },
+      { "name": "Root 1 - Child 2" },
+      { "name": "Root 1 - Child 3" },
+      { "name": "Root 1 - Child 4" },
+      { "name": "Root 1 - Child 5" },
+      {
+        "name": "Root 1 - Child 6",
+        "children": [
+          { "name": "Root 1 - Child 6 - Child 1" },
+          {
+            "name": "Root 1 - Child 6 - Child 2",
+            "children": [
+              { "name": "Root 1 - Child 6 - Child 2 - Child 1" },
+              { "name": "Root 1 - Child 6 - Child 2 - Child 2" },
+              { "name": "Root 1 - Child 6 - Child 2 - Child 3" },
+              {
+                "name": "Root 1 - Child 6 - Child 2 - Child 4",
+                "children": [
+                  { "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 1" },
+                  {
+                    "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2",
+                    "children": [
+                      {
+                        "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 1"
+                      },
+                      {
+                        "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 2"
+                      },
+                      {
+                        "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 3"
+                      },
+                      {
+                        "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4",
+                        "children": [
+                          {
+                            "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 1"
+                          },
+                          {
+                            "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 2"
+                          },
+                          {
+                            "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 3"
+                          },
+                          {
+                            "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4",
+                            "children": [
+                              {
+                                "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4 - Child 1"
+                              },
+                              {
+                                "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4 - Child 2"
+                              },
+                              {
+                                "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4 - Child 3"
+                              },
+                              {
+                                "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4 - Child 4"
+                              },
+                              {
+                                "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 4 - Child 5"
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 4 - Child 5"
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 2 - Child 5"
+                      }
+                    ]
+                  },
+                  { "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 3" },
+                  { "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 4" },
+                  { "name": "Root 1 - Child 6 - Child 2 - Child 4 - Child 5" }
+                ]
+              },
+              { "name": "Root 1 - Child 6 - Child 2 - Child 5" }
+            ]
+          },
+          { "name": "Root 1 - Child 6 - Child 3" },
+          { "name": "Root 1 - Child 6 - Child 4" },
+          { "name": "Root 1 - Child 6 - Child 5" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Root 2",
+    "children": [
+      { "name": "Root 2 - Child 1" },
+      { "name": "Root 2 - Child 2" },
+      { "name": "Root 2 - Child 3" },
+      { "name": "Root 2 - Child 4" },
+      { "name": "Root 2 - Child 5" },
+      { "name": "Root 2 - Child 6" }
+    ]
+  },
+  {
+    "name": "Root 3",
+    "children": [
+      { "name": "Root 3 - Child 1" },
+      { "name": "Root 3 - Child 2" },
+      { "name": "Root 3 - Child 3" },
+      { "name": "Root 3 - Child 4" },
+      { "name": "Root 3 - Child 5" },
+      { "name": "Root 3 - Child 6" }
+    ]
+  },
+  {
+    "name": "Root 4",
+    "children": [
+      { "name": "Root 4 - Child 1" },
+      { "name": "Root 4 - Child 2" },
+      { "name": "Root 4 - Child 3" },
+      { "name": "Root 4 - Child 4" },
+      { "name": "Root 4 - Child 5" },
+      { "name": "Root 4 - Child 6" }
+    ]
+  },
+  {
+    "name": "Root 5",
+    "children": [
+      { "name": "Root 5 - Child 1" },
+      { "name": "Root 5 - Child 2" },
+      { "name": "Root 5 - Child 3" },
+      {
+        "name": "Root 5 - Child 4",
+        "children": [
+          { "name": "Root 5 - Child 4 - Child 1" },
+          { "name": "Root 5 - Child 4 - Child 2" },
+          { "name": "Root 5 - Child 4 - Child 3" },
+          { "name": "Root 5 - Child 4 - Child 4" },
+          {
+            "name": "Root 5 - Child 4 - Child 5",
+            "children": [
+              { "name": "Root 5 - Child 4 - Child 5 - Child 1" },
+              { "name": "Root 5 - Child 4 - Child 5 - Child 2" },
+              { "name": "Root 5 - Child 4 - Child 5 - Child 3" },
+              { "name": "Root 5 - Child 4 - Child 5 - Child 4" },
+              { "name": "Root 5 - Child 4 - Child 5 - Child 5" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Root 6",
+    "children": [
+      {
+        "name": "Root 6 - Child 1",
+        "children": [
+          { "name": "Root 6 - Child 1 - Child 1" },
+          { "name": "Root 6 - Child 1 - Child 2" },
+          { "name": "Root 6 - Child 1 - Child 3" },
+          { "name": "Root 6 - Child 1 - Child 4" },
+          { "name": "Root 6 - Child 1 - Child 5" }
+        ]
+      },
+      { "name": "Root 6 - Child 2" },
+      { "name": "Root 6 - Child 3" },
+      { "name": "Root 6 - Child 4" },
+      { "name": "Root 6 - Child 5" }
+    ]
+  }
+]
