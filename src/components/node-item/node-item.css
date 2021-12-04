@@ -1,3 +1,6 @@
+.node-item .node-content {
+  display: flex;
+}
 .node-item .node-name {
   cursor: pointer;
   color: #9d9d9d;
@@ -23,6 +26,29 @@
 }
 .node-item .node-name .node-icon .icon-file {
   color: #009688;
+}
+.node-item .node-actions {
+  display: flex;
+  align-items: center;
+}
+.node-item .node-actions .action-item {
+  font-size: 12px;
+  width: 25px;
+  height: 19px;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 3px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.node-item .node-actions .action-item:hover {
+  background-color: #171a20;
+}
+.node-item .node-actions .icon-plus {
+  color: #4caf50;
+}
+.node-item .node-actions .icon-remove {
+  color: #f44336;
 }
 
 .node-item .node-children {
